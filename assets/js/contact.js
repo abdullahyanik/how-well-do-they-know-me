@@ -1,0 +1,1 @@
+$("#contactForm").submit(function(t){t.preventDefault();var e=$(this);$.ajax({type:e.attr("method"),url:e.attr("action"),data:e.serialize(),success:function(t){(t=JSON.parse(t)).success&&e[0].reset(),window.grecaptcha.reset(),$("#alertModalText").text(t.title),$("#alertModal .modal-body").text(t.message),$("#alertModal").modal("show")}})});
