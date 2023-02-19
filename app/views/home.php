@@ -44,27 +44,6 @@
                 </div>
             </div>
 
-
-            <div class="col-lg-4 mb-4 mb-lg-0" style="margin-top: 10px;">
-                <div class="card h-100">
-                    <div class="card-body">
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 mb-4 mb-lg-0" style="margin-top: 10px;">
-                <div class="card bg-primary h-100">
-                    <div class="card-body">
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4" style="margin-top: 10px;">
-                <div class="card h-100">
-                    <div class="card-body">
-                    </div>
-                </div>
-            </div>
-
-
         </div>
     </div>
 </div>
