@@ -6,18 +6,6 @@
         <h1><i class="fas fa-share-alt fa-2x text-primary"></i></h1>
         <h1 class="my-4"><?php _e("shareQuiz"); ?></h1>
         <p class="mb-0"><?php _e("sharePageText"); ?></p>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-            crossorigin="anonymous"></script>
-        <!-- Quiz Paylaş Reklamları -->
-        <ins class="adsbygoogle"
-            style="display:block"
-            data-ad-client="ca-pub-2977700941061024"
-            data-ad-slot="2921027480"
-            data-ad-format="auto"
-            data-full-width-responsive="true"></ins>
-        <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
         <div class="my-4 row justify-content-center">
         <div class="col-lg-6">
             <div class="input-group py-3">
@@ -29,18 +17,6 @@
                     <button class="btn btn-warning" onclick="copyLink()"><?php _e("copyLink"); ?><i class="fas fa-copy ml-2"></i></button>
                 </div>
             </div>
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-                crossorigin="anonymous"></script>
-            <!-- Quiz Paylaş Reklamları -->
-            <ins class="adsbygoogle"
-                style="display:block"
-                data-ad-client="ca-pub-2977700941061024"
-                data-ad-slot="2921027480"
-                data-ad-format="auto"
-                data-full-width-responsive="true"></ins>
-            <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
             <div class="container-fluid mt-4">
             <div class="row">
                 <div class="col-lg-6 p-0 pr-lg-1 mb-3">
@@ -63,18 +39,6 @@
                 </div>
             </div>
             </div>
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-                crossorigin="anonymous"></script>
-            <!-- Quiz Paylaş Reklamları -->
-            <ins class="adsbygoogle"
-                style="display:block"
-                data-ad-client="ca-pub-2977700941061024"
-                data-ad-slot="2921027480"
-                data-ad-format="auto"
-                data-full-width-responsive="true"></ins>
-            <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
             <div class="mt-4">
                 <a target="_blank" href="<?php echo $quizLink; ?>"><button class="btn btn-warning btn-lg d-block w-100"><i class="fas fa-poll mr-2"></i><?php _e("showResults"); ?></button></a>
             </div>
@@ -93,18 +57,6 @@
         </button>   
       </div>
       <div class="modal-body"><?php _e("linkCopiedText"); ?></div>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-                crossorigin="anonymous"></script>
-            <!-- Quiz Paylaş Reklamları -->
-            <ins class="adsbygoogle"
-                style="display:block"
-                data-ad-client="ca-pub-2977700941061024"
-                data-ad-slot="2921027480"
-                data-ad-format="auto"
-                data-full-width-responsive="true"></ins>
-            <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-dismiss="modal"><?php _e("close"); ?></button>
       </div>
