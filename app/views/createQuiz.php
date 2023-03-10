@@ -5,18 +5,6 @@
     <img src="assets/img/friend-question.png" style="height:275px" class="mw-100" alt="<?php _e("quizPage"); ?>">
     <h1 class="my-4"><?php _e("quizPage"); ?></h1>
     <p class="mb-0"><?php _e("quizPageText"); ?></p>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-     crossorigin="anonymous"></script>
-<!-- Quiz Oluştur - Ad Girme Yatay -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2977700941061024"
-     data-ad-slot="2362871706"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     <?php if(count($questions) > 0): ?>
     <form action="" id="startForm" method="post">
     <div class="my-4 row justify-content-center">
@@ -27,18 +15,6 @@
             <input required="" id="userName" class="form-control" placeholder="<?php _e("enterYourName"); ?>" type="text">
         </div>
     </div>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-     crossorigin="anonymous"></script>
-<!-- Quiz Oluştur - Ad Girme Yatay -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2977700941061024"
-     data-ad-slot="2362871706"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     <button class="btn btn-primary" type="submit" style="margin-top:10px;"><?php _e("createQuizButton"); ?></button>
     </form>
     <?php else: ?>

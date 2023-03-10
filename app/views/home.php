@@ -44,63 +44,6 @@
                 </div>
             </div>
 
-
-            <div class="col-lg-4 mb-4 mb-lg-0" style="margin-top: 10px;">
-                <div class="card h-100">
-                    <div class="card-body">
-                       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-                            crossorigin="anonymous"></script>
-                        <!-- Anasayfa - Esnek Kare -->
-                            <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-2977700941061024"
-                            data-ad-slot="4250668446"
-                            data-ad-format="auto"
-                            data-full-width-responsive="true"></ins>
-                        <script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 mb-4 mb-lg-0" style="margin-top: 10px;">
-                <div class="card bg-primary h-100">
-                    <div class="card-body">
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-                            crossorigin="anonymous"></script>
-                        <!-- Anasayfa Esnek 2 -->
-                        <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-2977700941061024"
-                            data-ad-slot="1555974928"
-                            data-ad-format="auto"
-                            data-full-width-responsive="true"></ins>
-                        <script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4" style="margin-top: 10px;">
-                <div class="card h-100">
-                    <div class="card-body">
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-                        crossorigin="anonymous"></script>
-                    <!-- Anasayfa Esnek Kare 3 -->
-                        <ins class="adsbygoogle"
-                        style="display:block"
-                        data-ad-client="ca-pub-2977700941061024"
-                        data-ad-slot="7998341768"
-                        data-ad-format="auto"
-                        data-full-width-responsive="true"></ins>
-                        <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
-                    </div>
-                </div>
-            </div>
-
-
         </div>
     </div>
 </div>
@@ -118,17 +61,6 @@
                 <li><?php _e("homeSection2.Step2"); ?></li>
                 <li><?php _e("homeSection2.Step3"); ?></li>
             </ul>
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-                crossorigin="anonymous"></script>
-                <ins class="adsbygoogle"
-                style="display:block"
-                data-ad-format="fluid"
-                data-ad-layout-key="-gw-3+1f-3d+2z"
-                data-ad-client="ca-pub-2977700941061024"
-                data-ad-slot="5447118474"></ins>
-            <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
         </div>
     </div>
     </div>

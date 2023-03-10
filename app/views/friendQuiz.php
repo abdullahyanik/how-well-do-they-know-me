@@ -33,18 +33,6 @@
           </div>
     </div>
     <h1 class="my-4 h2"><?php _e("yourScore"); ?>: <?php echo $score."/".$question_count; ?></h1>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-     crossorigin="anonymous"></script>
-<!-- Quiz Çözme-Skor Reklamları -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2977700941061024"
-     data-ad-slot="3415851508"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     <?php else: ?>
     <h1 class="my-4"><?php echo sprintf($Strings->g("friendQuizTest"), $quiz["username"]); ?></h1>
     <p class="mb-0"><?php echo sprintf($Strings->g("friendQuizText") ,$quiz["username"]); ?></p>
@@ -57,34 +45,10 @@
             <input required="" id="userName" class="form-control" placeholder="<?php _e("enterYourName"); ?>" type="text">
         </div>
     </div>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-     crossorigin="anonymous"></script>
-<!-- Quiz Çözme-Skor Reklamları -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2977700941061024"
-     data-ad-slot="3415851508"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
         <button class="btn btn-primary" type="submit"><?php _e("doQuiz"); ?></button>
     </form>
     <?php endif; ?>
     <?php endif; ?>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-     crossorigin="anonymous"></script>
-<!-- Quiz Çözme-Skor Reklamları -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2977700941061024"
-     data-ad-slot="3415851508"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     <div class="row justify-content-center">
     <div class="my-4"><?php echo $Configs["score_ad"]; ?></div>
     <div class="col-lg-6 table-responsive mt-4">
@@ -111,18 +75,6 @@
     </div>
     </div>
     </div>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2977700941061024"
-     crossorigin="anonymous"></script>
-<!-- Quiz Çözme-Skor Reklamları -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2977700941061024"
-     data-ad-slot="3415851508"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     <?php if(!isset($_COOKIE[$quiz["shortcode"]])): ?>
     <div class="text-center" id="question" style="display:none">
         <h5 class="mb-0 text-primary font-weight-light" id="questionRange"></h5>
