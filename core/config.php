@@ -2,13 +2,13 @@
 session_start();
 
 define("DB_SERVER","localhost");
-define("DB_NAME","abynkcom_qom");
-define("DB_USER","abynkcom_qom");
-define("DB_PASS","Abynk-8770");
+define("DB_NAME","dbname");
+define("DB_USER","dbuser");
+define("DB_PASS","password");
 
 define("APP_VERSION", 1);
 
-define("SITE_URL","https://quizofmine.com/");
+define("SITE_URL","websiteurl");
 
 define("LICENSE_KEY","FRQIZ-IESZT-WVGEB-JACXZ");
 
